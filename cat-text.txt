@@ -1,1 +1,1 @@
-version control system is also known has software configuration management
+github is a cloud platform
